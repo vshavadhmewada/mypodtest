@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ASMpod'
-  s.version          = '0.1.0'
+  s.version          = 'final'
   s.summary          = 'This pod is extension on textfield and textview done button'
 
 # This description is used to generate tags and improve search results.
