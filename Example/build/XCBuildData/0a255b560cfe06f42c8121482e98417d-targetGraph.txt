@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+ASMpod in Pods, no dependencies
+Pods-ASMpod_Example in Pods, depends on:
+ASMpod in Pods (explicit)
+Pods-ASMpod_Tests in Pods, depends on:
+Pods-ASMpod_Example in Pods (explicit)
