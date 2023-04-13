@@ -1,0 +1,6 @@
+framework module ASMpod {
+  umbrella header "ASMpod-umbrella.h"
+
+  export *
+  module * { export * }
+}

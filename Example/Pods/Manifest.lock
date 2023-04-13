@@ -1,0 +1,16 @@
+PODS:
+  - ASMpod (0.1.0)
+
+DEPENDENCIES:
+  - ASMpod (from `../`)
+
+EXTERNAL SOURCES:
+  ASMpod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ASMpod: fce777f049d99e90e9d8337c915e9437ea3c25fa
+
+PODFILE CHECKSUM: eb641ffb013be028082c3dcfe5494abdaa586957
+
+COCOAPODS: 1.11.3
