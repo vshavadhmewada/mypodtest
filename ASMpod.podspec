@@ -31,7 +31,11 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '15.0'
 
-  s.source_files = 'ASMpod/Classes/**/*'
+  s.source_files = 'Classes/**/*.swift'
+  
+  s.platforms = {
+      "ios":"15.0"
+  }
   
   # s.resource_bundles = {
   #   'ASMpod' => ['ASMpod/Assets/*.png']
